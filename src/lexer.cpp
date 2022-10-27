@@ -104,7 +104,7 @@ Token Tokenizer::next() {
 }
 
 vector<Token> lexer::tokenize(char const *const text) {
-  vector <Token> tokens{};
+  vector<Token> tokens{};
 
   Tokenizer tokenizer{ text, 0 };
   Token tok{};
