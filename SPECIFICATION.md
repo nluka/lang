@@ -1,5 +1,20 @@
 ## features
 
+in scope:
+- functions
+- variables (mutable and immutable)
+- pointers
+- if/else
+- switch
+- for, while, do-while loops
+- structs
+- static and dynamic arrays
+- strongly typed enums
+
+out of scope:
+- meta-programming
+-
+
 ### functions
 
 ```
