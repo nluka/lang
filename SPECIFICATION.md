@@ -3,17 +3,18 @@
 in scope:
 - functions
 - variables (mutable and immutable)
-- pointers
+- pointers (and maybe references?)
 - if/else
-- switch
+- switch-case
 - for, while, do-while loops
 - structs
 - static and dynamic arrays
 - strongly typed enums
+- javascript-like imports/exports
 
 out of scope:
 - meta-programming
--
+- OOP
 
 ### functions
 
